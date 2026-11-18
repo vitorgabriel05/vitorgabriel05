@@ -1,13 +1,16 @@
-# Olá, eu sou o Vitor Gabriel 👋
+# Olá, eu sou o Vitor Gabriel!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+
 💼 Auxiliar administrativo, unindo a visão de processos com a lógica da programação
+
 📍 Goiânia, GO - Brasil
+
 🚀 Em busca de oportunidades de estágio e início de carreira em tecnologia
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 
 Gosto de aprender na prática e de transformar rotinas e processos em sistemas que facilitam o dia a dia. Na faculdade, desenvolvo projetos em equipe e individuais, com foco em **backend, banco de dados e aplicações web**.
 
